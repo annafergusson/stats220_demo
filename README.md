@@ -10,6 +10,10 @@ Are you one of my students?
 - Feel free to watch this repository
 - You can even ⭐ the repo if you want 
 
-You can also check out my [demo website!](https://annafergusson.github.io/stats220_demo/)
+You can also check out my [UoA profile page](https://profiles.auckland.ac.nz/a-fergusson).
 
 This README file is intentionally boring. It could probably do with some images, or more emoji 😺
+
+## Memes and stuff
+
+Just a [link to some cat memes](https://icanhas.cheezburger.com/cat-meme-of-the-decade)!
